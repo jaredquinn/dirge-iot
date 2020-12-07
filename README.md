@@ -18,12 +18,12 @@ Hardware initial revisions.
 * 4 Normally Open Button Inputs (supports momentary & toggles)
 * 2 TTL (3V3) Output Signals (not for power supply)
 * TXB0104PWR IC 4bit Bi-directional Level Shifter
-** UART TX / RX
-** LED Pixel Pusher 5V Data CH1/CH2
+  * UART TX / RX
+  * LED Pixel Pusher 5V Data CH1/CH2
 * 6 DIP Switches 
-** 1-4=Config/Multiplexed with BTN INs
-** 5=Enable 5V Level Shifter PXL/UARTs
-** 6=Terminate CAN bus with 120Ohm
+  * 1-4=Config/Multiplexed with BTN INs
+  * 5=Enable 5V Level Shifter PXL/UARTs
+  * 6=Terminate CAN bus with 120Ohm
 
 
 # TODO
