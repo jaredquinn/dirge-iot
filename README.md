@@ -5,6 +5,10 @@ Work in progress.  Currently Untested
 
 Hardware initial revisions.
 
+## The Name
+
+This project is named for my good friend Caitlin's Roller Derby Name "Dirge" who asked me about solutions for placing sensors and automation around her bus conversion project.
+
 ## Features
 
 * TPS54202 Based 12V to 5V Converter
